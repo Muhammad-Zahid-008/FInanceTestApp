@@ -1,0 +1,29 @@
+.
+├── __tests__
+│   └── App.test.tsx
+├── app.json
+├── App.tsx
+├── babel.config.js
+├── Gemfile
+├── Gemfile.lock
+├── index.js
+├── jest.config.js
+├── metro.config.js
+├── package-lock.json
+├── package.json
+├── project-structure.txt
+├── react-native.config.js
+├── README.md
+├── src
+│   ├── assets
+│   ├── components
+│   ├── navigation
+│   ├── redux
+│   ├── screens
+│   └── utils
+├── tsconfig.json
+├── vendor
+│   └── bundle
+└── yarn.lock
+
+11 directories, 16 files
